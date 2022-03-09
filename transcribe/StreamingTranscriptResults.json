@@ -1,0 +1,3009 @@
+[
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕",
+									"EndTime": 2.27,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕"
+						}
+					],
+					"EndTime": 2.31,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕히",
+									"EndTime": 2.37,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕히"
+						}
+					],
+					"EndTime": 2.41,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세",
+									"EndTime": 2.47,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세"
+						}
+					],
+					"EndTime": 2.51,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.57,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요"
+						}
+					],
+					"EndTime": 2.61,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "온",
+									"EndTime": 2.87,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요 온"
+						}
+					],
+					"EndTime": 2.91,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘",
+									"EndTime": 2.97,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요 오늘"
+						}
+					],
+					"EndTime": 3.01,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.07,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요 오늘은"
+						}
+					],
+					"EndTime": 3.11,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "사",
+									"EndTime": 3.27,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요 오늘은 사"
+						}
+					],
+					"EndTime": 3.31,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요 오늘은 삼"
+						}
+					],
+					"EndTime": 3.51,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "사모",
+									"EndTime": 3.55,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요 오늘은 사모"
+						}
+					],
+					"EndTime": 3.61,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼월",
+									"EndTime": 3.66,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼월"
+						}
+					],
+					"EndTime": 3.71,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구"
+						}
+					],
+					"EndTime": 3.91,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 3.97,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일"
+						}
+					],
+					"EndTime": 4.01,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일"
+						}
+					],
+					"EndTime": 4.31,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "대",
+									"EndTime": 4.86,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대"
+						}
+					],
+					"EndTime": 4.91,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일"
+						}
+					],
+					"EndTime": 5.01,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "대통",
+									"EndTime": 5.07,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대통"
+						}
+					],
+					"EndTime": 5.11,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일"
+						}
+					],
+					"EndTime": 5.21,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "대통령",
+									"EndTime": 5.27,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대통령"
+						}
+					],
+					"EndTime": 5.31,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "대통령",
+									"EndTime": 5.36,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "선",
+									"EndTime": 5.57,
+									"StartTime": 5.37,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대통령 선"
+						}
+					],
+					"EndTime": 5.61,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "대통령",
+									"EndTime": 5.36,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "선거",
+									"EndTime": 5.67,
+									"StartTime": 5.37,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대통령 선거"
+						}
+					],
+					"EndTime": 5.71,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "대통령",
+									"EndTime": 5.36,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "선거에",
+									"EndTime": 5.87,
+									"StartTime": 5.37,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대통령 선거에"
+						}
+					],
+					"EndTime": 5.91,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "대통령",
+									"EndTime": 5.36,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "선거일",
+									"EndTime": 5.96,
+									"StartTime": 5.37,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대통령 선거일"
+						}
+					],
+					"EndTime": 6.01,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "대통령",
+									"EndTime": 5.36,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "선거일이",
+									"EndTime": 6.02,
+									"StartTime": 5.37,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대통령 선거일이"
+						}
+					],
+					"EndTime": 6.11,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.62,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.62,
+									"StartTime": 2.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.15,
+									"StartTime": 2.63,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.45,
+									"StartTime": 3.16,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.66,
+									"StartTime": 3.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.8,
+									"StartTime": 3.67,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.06,
+									"StartTime": 3.81,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "대통령",
+									"EndTime": 5.36,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "선거에",
+									"EndTime": 5.88,
+									"StartTime": 5.37,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일입니다",
+									"EndTime": 6.27,
+									"StartTime": 5.89,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 6.27,
+									"StartTime": 6.27,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대통령 선거에 일입니다."
+						}
+					],
+					"EndTime": 6.31,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "안녕하세요",
+									"EndTime": 2.72,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.72,
+									"StartTime": 2.72,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "오늘은",
+									"EndTime": 3.25,
+									"StartTime": 2.73,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "삼",
+									"EndTime": 3.56,
+									"StartTime": 3.26,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "월",
+									"EndTime": 3.72,
+									"StartTime": 3.57,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "구",
+									"EndTime": 3.92,
+									"StartTime": 3.73,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일",
+									"EndTime": 4.28,
+									"StartTime": 3.93,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "대통령",
+									"EndTime": 5.45,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "선거에",
+									"EndTime": 5.91,
+									"StartTime": 5.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "일입니다",
+									"EndTime": 6.49,
+									"StartTime": 5.92,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 6.49,
+									"StartTime": 6.49,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대통령 선거에 일입니다."
+						}
+					],
+					"EndTime": 6.57,
+					"IsPartial": true,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Confidence": 1,
+									"Content": "안녕하세요",
+									"EndTime": 2.72,
+									"StartTime": 2.1,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 2.72,
+									"StartTime": 2.72,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.99,
+									"Content": "오늘은",
+									"EndTime": 3.25,
+									"StartTime": 2.73,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.49,
+									"Content": "삼",
+									"EndTime": 3.56,
+									"StartTime": 3.26,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.98,
+									"Content": "월",
+									"EndTime": 3.72,
+									"StartTime": 3.57,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.47,
+									"Content": "구",
+									"EndTime": 3.92,
+									"StartTime": 3.73,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.99,
+									"Content": "일",
+									"EndTime": 4.28,
+									"StartTime": 3.93,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 1,
+									"Content": "대통령",
+									"EndTime": 5.45,
+									"StartTime": 4.71,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.39,
+									"Content": "선거에",
+									"EndTime": 5.91,
+									"StartTime": 5.46,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.82,
+									"Content": "일입니다",
+									"EndTime": 6.49,
+									"StartTime": 5.92,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 6.49,
+									"StartTime": 6.49,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "안녕하세요. 오늘은 삼 월 구 일 대통령 선거에 일입니다."
+						}
+					],
+					"EndTime": 6.57,
+					"IsPartial": false,
+					"ResultId": "c73e0496-22b1-44b4-b7cf-934d1be629aa",
+					"StartTime": 2.1
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이",
+									"EndTime": 16.07,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이"
+						}
+					],
+					"EndTime": 16.11,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이",
+									"EndTime": 16.11,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이"
+						}
+					],
+					"EndTime": 16.21,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이편하면",
+									"EndTime": 16.74,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이편하면"
+						}
+					],
+					"EndTime": 16.81,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이편하면",
+									"EndTime": 16.73,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누",
+									"EndTime": 16.84,
+									"StartTime": 16.74,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이편하면 누"
+						}
+					],
+					"EndTime": 16.91,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이말하면",
+									"EndTime": 16.73,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누가",
+									"EndTime": 16.97,
+									"StartTime": 16.74,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이말하면 누가"
+						}
+					],
+					"EndTime": 17.01,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이라면",
+									"EndTime": 16.73,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누구나",
+									"EndTime": 17.01,
+									"StartTime": 16.74,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이라면 누구나"
+						}
+					],
+					"EndTime": 17.11,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이하면",
+									"EndTime": 16.73,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 16.99,
+									"StartTime": 16.74,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찍",
+									"EndTime": 17.16,
+									"StartTime": 17,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이하면 누굴 찍"
+						}
+					],
+					"EndTime": 17.21,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이하면",
+									"EndTime": 16.73,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 16.99,
+									"StartTime": 16.74,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찍을",
+									"EndTime": 17.27,
+									"StartTime": 17,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이하면 누굴 찍을"
+						}
+					],
+					"EndTime": 17.31,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이하면",
+									"EndTime": 16.73,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 16.99,
+									"StartTime": 16.74,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찍을",
+									"EndTime": 17.27,
+									"StartTime": 17,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이하면 누굴 찍을"
+						}
+					],
+					"EndTime": 17.41,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이하면",
+									"EndTime": 16.73,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 16.99,
+									"StartTime": 16.74,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찍을까요",
+									"EndTime": 17.47,
+									"StartTime": 17,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "?",
+									"EndTime": 17.47,
+									"StartTime": 17.47,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이하면 누굴 찍을까요?"
+						}
+					],
+					"EndTime": 17.51,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이하면",
+									"EndTime": 16.78,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 17.06,
+									"StartTime": 16.79,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찍을까요",
+									"EndTime": 17.81,
+									"StartTime": 17.07,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "?",
+									"EndTime": 17.81,
+									"StartTime": 17.81,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이하면 누굴 찍을까요?"
+						}
+					],
+					"EndTime": 17.89,
+					"IsPartial": true,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Confidence": 0.5,
+									"Content": "땡땡이하면",
+									"EndTime": 16.78,
+									"StartTime": 15.65,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.88,
+									"Content": "누굴",
+									"EndTime": 17.06,
+									"StartTime": 16.79,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.815,
+									"Content": "찍을까요",
+									"EndTime": 17.81,
+									"StartTime": 17.07,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "?",
+									"EndTime": 17.81,
+									"StartTime": 17.81,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이하면 누굴 찍을까요?"
+						}
+					],
+					"EndTime": 17.89,
+					"IsPartial": false,
+					"ResultId": "1192bfc0-3568-4ef7-8d15-2e40c97edb7f",
+					"StartTime": 15.4
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "생태",
+									"EndTime": 22.12,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "생태"
+						}
+					],
+					"EndTime": 22.16,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이",
+									"EndTime": 22.22,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이"
+						}
+					],
+					"EndTime": 22.26,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이",
+									"EndTime": 22.27,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이"
+						}
+					],
+					"EndTime": 22.36,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표",
+									"EndTime": 22.72,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표"
+						}
+					],
+					"EndTime": 22.76,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.92,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를"
+						}
+					],
+					"EndTime": 22.96,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.91,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를"
+						}
+					],
+					"EndTime": 23.06,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.87,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "하면",
+									"EndTime": 23.12,
+									"StartTime": 22.88,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면"
+						}
+					],
+					"EndTime": 23.16,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.87,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "하면",
+									"EndTime": 23.13,
+									"StartTime": 22.88,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누",
+									"EndTime": 23.27,
+									"StartTime": 23.14,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면 누"
+						}
+					],
+					"EndTime": 23.36,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.87,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "하면",
+									"EndTime": 23.13,
+									"StartTime": 22.88,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누구",
+									"EndTime": 23.42,
+									"StartTime": 23.14,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "?",
+									"EndTime": 23.42,
+									"StartTime": 23.42,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면 누구?"
+						}
+					],
+					"EndTime": 23.46,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.87,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "하면",
+									"EndTime": 23.13,
+									"StartTime": 22.88,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 23.48,
+									"StartTime": 23.14,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면 누굴"
+						}
+					],
+					"EndTime": 23.56,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.87,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "하면",
+									"EndTime": 23.13,
+									"StartTime": 22.88,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 23.48,
+									"StartTime": 23.14,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찌",
+									"EndTime": 23.62,
+									"StartTime": 23.49,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 23.62,
+									"StartTime": 23.62,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면 누굴 찌."
+						}
+					],
+					"EndTime": 23.66,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.87,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "하면",
+									"EndTime": 23.13,
+									"StartTime": 22.88,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 23.48,
+									"StartTime": 23.14,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찍",
+									"EndTime": 23.7,
+									"StartTime": 23.49,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면 누굴 찍"
+						}
+					],
+					"EndTime": 23.76,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.87,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "하면",
+									"EndTime": 23.13,
+									"StartTime": 22.88,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 23.48,
+									"StartTime": 23.14,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찍을",
+									"EndTime": 23.81,
+									"StartTime": 23.49,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면 누굴 찍을"
+						}
+					],
+					"EndTime": 23.86,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.87,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "하면",
+									"EndTime": 23.13,
+									"StartTime": 22.88,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 23.48,
+									"StartTime": 23.14,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찍을",
+									"EndTime": 23.81,
+									"StartTime": 23.49,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면 누굴 찍을"
+						}
+					],
+					"EndTime": 23.96,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.37,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.87,
+									"StartTime": 22.38,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "하면",
+									"EndTime": 23.13,
+									"StartTime": 22.88,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 23.48,
+									"StartTime": 23.14,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찍을까요",
+									"EndTime": 24.02,
+									"StartTime": 23.49,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 24.02,
+									"StartTime": 24.02,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면 누굴 찍을까요."
+						}
+					],
+					"EndTime": 24.06,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Content": "땡땡이가",
+									"EndTime": 22.46,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "투표를",
+									"EndTime": 22.9,
+									"StartTime": 22.47,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "하면",
+									"EndTime": 23.21,
+									"StartTime": 22.91,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "누굴",
+									"EndTime": 23.55,
+									"StartTime": 23.22,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": "찍을까요",
+									"EndTime": 24.44,
+									"StartTime": 23.56,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 24.44,
+									"StartTime": 24.44,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면 누굴 찍을까요."
+						}
+					],
+					"EndTime": 24.53,
+					"IsPartial": true,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": [
+				{
+					"Alternatives": [
+						{
+							"Items": [
+								{
+									"Confidence": 0.655,
+									"Content": "땡땡이가",
+									"EndTime": 22.46,
+									"StartTime": 21.85,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.89,
+									"Content": "투표를",
+									"EndTime": 22.9,
+									"StartTime": 22.47,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.99,
+									"Content": "하면",
+									"EndTime": 23.21,
+									"StartTime": 22.91,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.89,
+									"Content": "누굴",
+									"EndTime": 23.55,
+									"StartTime": 23.22,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Confidence": 0.82,
+									"Content": "찍을까요",
+									"EndTime": 24.44,
+									"StartTime": 23.56,
+									"Type": "pronunciation",
+									"VocabularyFilterMatch": false
+								},
+								{
+									"Content": ".",
+									"EndTime": 24.44,
+									"StartTime": 24.44,
+									"Type": "punctuation",
+									"VocabularyFilterMatch": false
+								}
+							],
+							"Transcript": "땡땡이가 투표를 하면 누굴 찍을까요."
+						}
+					],
+					"EndTime": 24.53,
+					"IsPartial": false,
+					"ResultId": "db4eb64e-ac86-4908-a99e-382b9895c521",
+					"StartTime": 21.85
+				}
+			]
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	},
+	{
+		"Transcript": {
+			"Results": []
+		}
+	}
+]
