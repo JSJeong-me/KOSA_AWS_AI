@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en"/>
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>연락처 관리기</title>
+
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue-grey.css">
+</head>
+
+<body class="w3-theme-14" onload="retrieveAndDisplayContacts()">
+    <div style="min-width:400px">
+        <div class="w3-bar w3-large w3-theme-d4">
+            <span class="w3-bar-item">연락처 관리기</span>
+        </div>
+
+        <div class="w3-container w3-content">
+            <p class="w3-opacity"><b>연락처 추가</b></p>
+            <div class="w3-panel w3-white w3-card w3-display-container w3-center">
+                <div>
+                    <input id="file" type="file" name="file" accept="image/*"/>
+                    <input class="w3-button w3-blue-grey" type="submit"
+                           value="추출한 정보" onclick="uploadAndExtract()"/>
+                    <hr>
+                </div>
+                <div id="view" style="display: none;">
+                    <img id="image" width="400"/>
+                    <hr>
+                </div>
+                <div class="w3-display-container w3-left" style="width:45%">
+                    <fieldset>
+                        <legend>정보</legend>
+                        <p>
+                            <label for="name">이름</label>
+                            <input id="name" type="text" name="name"/>
+                        </p>
+                        <p>
+                            <label for="title">직함</label>
+                            <input id="title" type="text" name="title"/>
+                        </p>
+                        <p>
+                            <label for="email">이메일</label>
+                            <input id="email" type="email" name="email"/>
+                        </p>
+                        <p>
+                            <label for="phone">전화</label>
+                            <input id="phone" type="tel" name="phone"/>
+                        </p>
+                    </fieldset>
+                </div>
+                <div class="w3-display-container w3-right" style="width:50%">
+                    <fieldset>
+                        <legend>주소</legend>
+                        <p>
+                            <label for="organization">기관</label>
+                            <input id="organization" type="text" name="organization"/>
+                        </p>
+                        <p>
+                            <label for="address">주소</label>
+                            <input id="address" type="text" name="address" size="30"/>
+                        </p>
+                        <p>
+                            <label for="city">도시</label>
+                            <input id="city" type="text" name="city"/>
+                        </p>
+                        <p>
+                            <label for="state">주/도</label>
+                            <input id="state" type="text" name="state" size="3"/>
+                            <label for="zip">우편번호</label>
+                            <input id="zip" type="text" name="zip" size="6"/>
+                        </p>
+                    </fieldset>
+                    <br>
+                    <input class="w3-button w3-blue-grey" type="submit" id="save"
+                           value="연락처 저장" onclick="saveContact()" disabled/>
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-container w3-content">
+            <p>
+                <b class="w3-opacity">내 연락처 목록</b>
+                <input class="w3-button w3-blue-grey" type="submit"
+                       value="Refresh" onclick="retrieveAndDisplayContacts()"/>
+            </p>
+            <div class="w3-panel w3-white w3-card w3-display-container w3-center">
+                <div id="contacts"/>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
