@@ -7,7 +7,7 @@
 
 ## Project 완료 하신 Code 또는 실습 Code를 여러분 성함 zip 파일로 압축하여서 아래 Link로 올려 주시면 감사하겠습니다.
 
-## URL: https://url.kr/jkaeho
+## URL: https://drive.google.com/drive/folders/1CFsVsyl3dPMx0hp5Oqk7_m253kAOnWdx?usp=sharing
 
 
 
