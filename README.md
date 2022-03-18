@@ -5,7 +5,7 @@
 
 ## 사진 번역기 Project를 과정 진행 평가 자료로 KOSA에 제출 예정입니다.
 
-## Project 완료 하신 Code 또는 실습 Code를 zip 파일 형태로 아래 Link로 올려 주시면 감사하겠습니다.
+## Project 완료 하신 Code 또는 실습 Code를 여러분 성함 zip 파일로 압축하여서 아래 Link로 올려 주시면 감사하겠습니다.
 
 ## URL: https://url.kr/jkaeho
 
