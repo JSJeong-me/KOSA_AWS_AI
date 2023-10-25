@@ -15,7 +15,7 @@ app.debug = True
 #####
 # 서비스 초기화
 #####
-storage_location = 'contents.junho.her'
+storage_location = 'aws-1024'
 storage_service = storage_service.StorageService(storage_location)
 recognition_service = recognition_service.RecognitionService(storage_service)
 
@@ -24,7 +24,7 @@ recognition_service = recognition_service.RecognitionService(storage_service)
 def demo_object_detection():
     """randomly selects one image to demo object detection"""
     files = storage_service.list_files()
-    images = [file for file in files if file['file_name'].endswith(".jpeg")]
+    images = [file for file in files if file['file_name'].endswith(".jpg")]
     image = random.choice(images)
 
     objects = recognition_service.detect_objects(image['file_name'])
@@ -34,5 +34,4 @@ def demo_object_detection():
         "imageUrl": image['url'],
         "objects": objects
     }
-
 
