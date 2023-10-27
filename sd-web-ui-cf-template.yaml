@@ -1,0 +1,46 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: A CloudFormation template to deploy the Stable Diffusion Web UI by Automatic1111
+
+Resources:
+  SecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupName: sd-webui-sg
+      GroupDescription: Security group for SD WebUI EC2 instance
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp: 0.0.0.0/0
+        - IpProtocol: tcp
+          FromPort: 7860
+          ToPort: 7860
+          CidrIp: 0.0.0.0/0
+  EC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: g4dn.xlarge
+      ImageId: ami-07d16c043aa8e5153
+      BlockDeviceMappings:
+        - DeviceName: /dev/sda1
+          Ebs:
+            VolumeSize: 300
+            VolumeType: gp2
+      "Tags" : [
+            {"Key" : "Name", "Value" : "sd-web-ui-cf"},
+        ]
+      SecurityGroups:
+        - Ref: SecurityGroup
+      UserData:
+        'Fn::Base64': |
+            #!/bin/bash
+            cd /home/ubuntu
+            git clone https://github.com/marshmellow77/stable-diffusion-webui.git
+            bash stable-diffusion-webui/setup.sh -y
+  MyEIP:
+    Type: AWS::EC2::EIP
+  MyEIPAssociation:
+    Type: AWS::EC2::EIPAssociation
+    Properties:
+      AllocationId: !GetAtt MyEIP.AllocationId
+      InstanceId: !Ref EC2Instance
